@@ -51,7 +51,7 @@ debales-ai-assistant/
 
 ### 1. Clone the repository
 
-git clone <your-repo-link>
+git clone https://github.com/katyayani-upadhyay/Debales-ai-assistant
 cd debales-ai-assistant
 
 ---
@@ -115,7 +115,7 @@ python app.py
 
 ## 🎥 Demo
 
-(Add your demo video link here)
+https://drive.google.com/file/d/1nYSPabHUHR74V9s2WEZCtP1IZnZ_C_L4/view?usp=sharing
 
 ---
 
